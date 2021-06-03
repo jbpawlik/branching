@@ -1,0 +1,3 @@
+[submodule "branching"]
+	path = branching
+	url = http://github.com/jbpawlik/branching
